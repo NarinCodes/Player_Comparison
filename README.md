@@ -10,4 +10,4 @@ This tool uses the libraries mentioned below:
 5. pandas
 6. numpy
 7. mplsoccer
-8. highlighttext
+8. highlight_text
